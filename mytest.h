@@ -15,8 +15,8 @@
 #include <stdint.h>
 #include <stdbool.h>
 #include <stddef.h>
-#include "source/transport_interface.h"
-#include "source/core_mqtt.h"
+#include "../source/transport_interface.h"
+#include "../source/core_mqtt.h"
 
 #define HOST_IP_ADDR    "127.0.0.1"
 #define HOST_PORT_NUM   1883
