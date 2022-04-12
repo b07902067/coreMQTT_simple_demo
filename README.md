@@ -10,3 +10,6 @@
     - `$ cd [coreMQTT Path]/coreMQTT_simple_demo`
     - `$ gcc mytest.c ../lib/libcoverity_analysis.a -o mytest -DMQTT_DO_NOT_USE_CUSTOM_CONFIG=1`
     - `$ ./mytest`
+
+- Reference
+    - https://github.com/aws/aws-iot-device-sdk-embedded-C/tree/main/demos/mqtt
